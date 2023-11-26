@@ -1,3 +1,5 @@
-# Sector Connect - backend with node.js
+# Sector Connect - Backend with node.js + express.js
 
-[Live Website](https://test.dev/)
+### For database I used mongo db + mongoose
+
+[Live Website](https://phonebook-app-fullstack.fly.dev/)
