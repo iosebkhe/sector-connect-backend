@@ -1,5 +1,6 @@
-# Sector Connect - Backend with node.js + express.js
+# Sector Connect - Backend
 
-### For database I used mongo db + mongoose
+### created with node.js + express.js
+### Database: mongo db + mongoose
 
 [Live Website](https://phonebook-app-fullstack.fly.dev/)
